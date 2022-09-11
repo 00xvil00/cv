@@ -1,0 +1,53 @@
+body{
+    margin: 30px 10PX;
+}
+
+/**HEAD**/
+header{
+    display: flex;
+}
+
+.head_details{
+    width: 70%;
+    float: left;
+    padding: 6% 0% 0% 16%;
+    
+}
+
+.head_details h1, h2, h3, h4{
+    margin: 0px;
+    
+}
+
+.head_img{
+    width: 30%;
+    align-items: center;
+}
+
+/**Section**/
+
+
+.left_right{
+    display: flex;
+    padding: 0 15%;
+}
+
+.left{
+    margin: 0px;
+    padding: 5px;
+    width: 40%;
+    float: left;
+}
+
+.middle{
+    margin: 0px;
+    padding: 5px 15px;
+}
+
+.right{
+    margin: 0px;
+    padding: 5px;
+    width: 60%;
+    float: right;
+}
+
